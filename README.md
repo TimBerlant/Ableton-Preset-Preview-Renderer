@@ -1,5 +1,10 @@
 Generate WAV previews for instrument presets in Ableton Live 12 on macOS.
 
+
+
+<img width="650" height="230" alt="preview" src="https://github.com/user-attachments/assets/4f95978d-f98a-4ddd-a44d-d70acbca75ec" />
+
+
 ## Quick start
 
 1. Download the installable ZIP from **Releases**, unzip it, quit Live, and run `Install.command`.
