@@ -14,6 +14,11 @@ Generate WAV previews for instrument presets in Ableton Live 12 on macOS.
 
 Instrument presets supported for selection: `.adg`, `.adv`, `.aupreset`, `.vstpreset`, and `.fxp`. Live must be able to load the preset. AU and VST rendering still needs end-to-end testing.
 
+Manual install
+
+- Copy the `Device` folder into `User Library/`.
+- Copy the `RackPreviewLoader` folder into `User Library/Remote Scripts/`. Create `Remote Scripts` if needed.
+
 ## Contribute
 
 This is an early release. Issues, forks, and pull requests are welcome. The editable Max patch and scripts are included under the MIT license. Based on [AbletonPreviewRenderer](https://github.com/mgarbvs/AbletonPreviewRenderer).
