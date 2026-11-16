@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/34933948/README.md)
 Generate WAV previews for instrument presets in Ableton Live 12 on macOS.
 
 ## Quick start
